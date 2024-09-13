@@ -1,7 +1,7 @@
 import { RiShutDownLine } from "react-icons/ri";
 import {useAuth} from "../../hooks/auth"
 import { Container , Profile, Logout } from "./style";
-import {} from "../services/api"
+import {} from "../../services/api"
 
 export function Header(){
     const { signOut, user } = useAuth();
