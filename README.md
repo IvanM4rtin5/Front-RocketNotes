@@ -1,6 +1,6 @@
 # RocketNotes
 
-**RocketNotes** é uma aplicação desenvolvida com React que permite aos usuários fazerem anotações de maneira simples e eficiente. O projeto utiliza Vite como bundler, Styled-components para estilização, React Router para navegação, e Axios para chamadas HTTP.
+**RocketNotes** é uma aplicação desenvolvida com React que permite aos usuários fazerem anotações de maneira simples e eficiente. O projeto utiliza Vite como bundler, Styled-components para estilização, React Router para navegação, e Axios para chamadas HTTP. Desenvolvida com as aulas da @Rockeseat
 
 ## Tecnologias
 
