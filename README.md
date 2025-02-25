@@ -1,7 +1,7 @@
 ## RocketNotes
 
 [![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](JavaScript)
-[![NPM](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)]
+[![NPM](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
 [![Bundler](https://img.shields.io/badge/Bundler-Vite-B73BFE?logo=vite)](https://vitejs.dev/)
 [![Backend](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)](https://nodejs.org/)
 
