@@ -92,6 +92,10 @@ rocketnotes/
 └── vite.config.js          # Configuração do Vite
 ```
 
+## 🔗 Links Relacionados
+
+- Repositório do Backend: [RocketNotes- Backend](https://github.com/IvanM4rtin5/Backend-Notes)
+
 ## 🧩 Funcionalidades do Projeto
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
 
