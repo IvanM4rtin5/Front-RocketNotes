@@ -12,7 +12,8 @@ RocketNotes é uma aplicação desenvolvida com React que permite aos usuários 
 O RocketNotes foi criado para demonstrar minhas habilidades no desenvolvimento frontend, utilizando tecnologias modernas e boas práticas de programação. A aplicação é intuitiva, responsiva e fácil de usar, proporcionando uma experiência agradável para os usuários.
 
 ### 🛠️ Tecnologias Utilizadas
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)]
+![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
+
 <div align="left"> <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react" alt="React" /> <img src="https://img.shields.io/badge/Vite-4.x-B73BFE?logo=vite" alt="Vite" /> <img src="https://img.shields.io/badge/Styled%20Components-5.x-DB7093?logo=styled-components" alt="Styled Components" /> <img src="https://img.shields.io/badge/React%20Router-6.x-CA4245?logo=react-router" alt="React Router" /> <img src="https://img.shields.io/badge/Axios-1.x-5A29E4?logo=axios" alt="Axios" /> <img src="https://img.shields.io/badge/ESLint-8.x-4B32C3?logo=eslint" alt="ESLint" /> </div>
 
 ### 📂 Estrutura do Projeto
