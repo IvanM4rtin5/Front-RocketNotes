@@ -8,6 +8,10 @@
 
 RocketNotes é uma aplicação desenvolvida com React que permite aos usuários fazerem anotações de maneira simples e eficiente. O projeto utiliza Vite como bundler, Styled-components para estilização, React Router para navegação e Axios para chamadas HTTP. Desenvolvido com as aulas da @Rocketseat.
 
+---
+![Image](https://github.com/IvanM4rtin5/Front-RocketNotes/blob/main/src/assets/note.png)
+---
+
 ## 🚀 Por que RocketNotes?
 O RocketNotes foi criado para demonstrar minhas habilidades no desenvolvimento frontend, utilizando tecnologias modernas e boas práticas de programação. A aplicação é intuitiva, responsiva e fácil de usar, proporcionando uma experiência agradável para os usuários.
 
